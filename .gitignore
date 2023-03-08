@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/dist
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+/.vscode
+yarn.lock
+
+# IDE
+.vscode
+.DS_Store
+
+# locals
+/*.local
+
+#plagins
+stats.html
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json

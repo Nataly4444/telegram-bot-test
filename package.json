@@ -1,0 +1,25 @@
+{
+  "name": "telegram-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataly4444/telegram-bot-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nataly4444/telegram-bot-test/issues"
+  },
+  "homepage": "https://github.com/Nataly4444/telegram-bot-test#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.21"
+  }
+}
